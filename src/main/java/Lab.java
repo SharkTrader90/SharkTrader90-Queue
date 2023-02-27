@@ -17,8 +17,8 @@ import java.util.Queue;
  * 2 | 3 |  
  * 3 |   |  
  *
- * ArrayDeque fills the role of *both* queues and stacks. You could think of a Deque as a deck of cards (pronounced the
- * same) where you could remove cards  from either the top or bottom. You can use ArrayDeque
+ * ArrayDeque fills the role of *b  sdfgdfoth* queues and stacks. You could think of a Deque as a deck of cards (pronounced the
+ * same) where you could remove cards          from either the top or bottom. You can use ArrayDeque
  * to perform queue operations. You can read about ArrayDeque in the official Javadocs here:
  * https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html
  * And you can read about the queue interface here:
